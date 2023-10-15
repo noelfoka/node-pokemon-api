@@ -1,0 +1,11 @@
+{
+  "name": "node-pokemon-api",
+  "version": "1.0.0",
+  "description": "As Awesome API Rest to handle some pokemon",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Noel FOKA",
+  "license": "MIT"
+}
